@@ -1,5 +1,4 @@
 
-
 # 🤖 robotico — Official Website
 
 > A sleek, modern, and responsive website for **robotico**, built with **React**, **Tailwind CSS**, and **Vite**. Designed to showcase partnerships, achievements, and your innovative team in style.
